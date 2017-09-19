@@ -1,0 +1,39 @@
+Equipe Computador: Darkseid sofreu dano com efetividade de 0.0.
+
+Equipe a: Adão Negro sofreu dano com efetividade de 0.3.
+
+Equipe Computador: Darkseid sofreu dano com efetividade de 0.6.
+
+Equipe a: Adão Negro sofreu dano com efetividade de 0.3, mas se defendeu.
+
+Equipe Computador: Darkseid sofreu dano com efetividade de 0.3.
+
+Equipe a: Adão Negro sofreu dano com efetividade de 0.3, mas se defendeu.
+
+Equipe Computador: Darkseid sofreu dano com efetividade de 0.2, mas se defendeu.
+
+Equipe a: Adão Negro sofreu dano com efetividade de 0.2, mas se defendeu.
+
+Equipe Computador: Darkseid sofreu dano com efetividade de 0.7, mas se defendeu.
+
+Equipe a: Adão Negro sofreu dano com efetividade de 0.7.
+
+Equipe Computador: Darkseid sofreu dano com efetividade de 1.0 (Dano crítico!).
+
+Equipe a: Adão Negro sofreu dano com efetividade de 0.8.
+
+Equipe Computador: Darkseid sofreu dano com efetividade de 0.7.
+
+Equipe a: Adão Negro sofreu dano com efetividade de 0.6, mas se defendeu.
+
+Equipe Computador: Darkseid sofreu dano com efetividade de 0.7.
+
+Equipe a: Adão Negro sofreu dano com efetividade de 0.3, mas se defendeu.
+
+Equipe Computador: Darkseid sofreu dano com efetividade de 1.0 (Dano crítico!), mas se defendeu.
+
+Equipe a: Adão Negro sofreu dano com efetividade de 0.1.
+
+Equipe Computador: Darkseid sofreu dano com efetividade de 0.9.
+
+a venceu o jogo!!!
